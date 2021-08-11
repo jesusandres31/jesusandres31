@@ -4,22 +4,19 @@ My name is Jesus, I'm from Argentina.
 
 - I upload some things I'm testing on here
 
-## My stack right now
+## My skills
 
 - Node
 - Typescript
 - Postgres
+- Docker
+- Linux
+- Nginx
+- Cloud application deployment
+- Multi-tenancy application development
 - React
 - Redux
 - Material-UI
-
-## Other technical skills
-
-- Docker
-- Linux
-- Cloud application deployment
-- Multi-tenancy application development
-- Nginx
 
 ## Contact
 
