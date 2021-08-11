@@ -8,7 +8,7 @@ My name is Jesus, I'm from Argentina.
 
 - Node
 - Typescript
-- Postgres
+- PostgreSQL
 - Docker
 - Linux
 - Nginx
