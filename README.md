@@ -9,13 +9,13 @@ My name is Jesus, I'm from Argentina.
 - Node
 - Typescript
 - PostgreSQL
+- React
+- Redux
 - Docker
 - Linux
 - Nginx
 - Cloud application deployment
 - Multi-tenancy application development
-- React
-- Redux
 - Material-UI
 
 ## Contact
