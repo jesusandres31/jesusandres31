@@ -12,6 +12,7 @@ My name is Jesus, I'm from Argentina.
 - React
 - Redux
 - Docker
+- Docker-Compose
 - Linux
 - Nginx
 - Cloud application deployment
