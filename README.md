@@ -2,7 +2,7 @@
 
 My name is Jesus, I'm from Argentina.
 
-## Stack
+## Skills
 - Node
 - Typescript
 - PostgreSQL
