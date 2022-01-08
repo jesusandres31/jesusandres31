@@ -1,4 +1,4 @@
-## Hello 👋
+## Hello
 
 My name is Jesus, I'm from Argentina.
 
@@ -8,7 +8,6 @@ My name is Jesus, I'm from Argentina.
 - PostgreSQL
 - React
 - Redux
-- Material-UI
 - Docker
 - Linux
 - Nginx
