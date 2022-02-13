@@ -2,15 +2,16 @@
 
 My name is Jesus, I'm from Argentina.
 
-## Skills
+## Dev skills
+- Docker
+- Linux
+- Nginx
+- Bash
 - Node
 - Typescript
 - PostgreSQL
 - React
 - Redux
-- Docker
-- Linux
-- Nginx
 
 ## Contact
 
