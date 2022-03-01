@@ -1,9 +1,9 @@
-## Hello
+## Hello 👋
 
 My name is Jesus, I'm from Argentina.
 
 ## Dev skills
-- Docker
+- Docker 🐳
 - Linux
 - Nginx
 - Bash
