@@ -8,7 +8,7 @@ My name is Jesus, I'm from Argentina. I am currently working as a full stack web
 - PostgreSQL and PL/PgSQL
 - Nginx reverse proxy/web server
 - Linux and Bash Scripting
-- Git for version control and Jenkins for CI/CD
+- Git for version control. CI/CD with Jenkins
 - VPC and Cloud technologies knowledge
 
 ## Soft Skills:
