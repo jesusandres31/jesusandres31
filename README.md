@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is Jesus, I'm from Argentina. I am currently working as a full stack web developer and operations. Also I have a degree in Information Systems.
+My name is Jesus, I'm from Argentina. I am currently working as a full stack web developer and operations. Also, I have a degree in Information Systems.
 
 ## Hard Skills:
 - Docker 🐳
