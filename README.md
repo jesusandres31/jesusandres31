@@ -21,4 +21,4 @@ My name is Jesus, I'm from Argentina. I am currently working as a full stack web
 
 ## Contact
 
-Find all my socials and resume in my [website](https://jesusandres.tech/)
+Find all my socials and resume on my [website](https://jesusandres.tech/)
