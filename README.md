@@ -15,10 +15,11 @@ My name is Jesus, I'm from Argentina. I am currently working as a full stack web
 - Proactivity.
 - Commitment.
 - Teamwork.
-- Growth mindset.
-- Client communication.
+- Communication.
 - Critical thinking.
 
 ## Contact
 
-Find all my socials and resume on my [website](https://jesusandres.tech/)
+[My website](https://jesusandres.tech/)
+
+[Updated resume](https://bit.ly/jesusandreszini-resume/) 
