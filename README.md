@@ -22,4 +22,4 @@ My name is Jesus, I'm from Argentina. I am currently working as a full stack web
 
 [My website](https://jesusandres.tech/)
 
-[Updated resume](https://bit.ly/jesusandreszini-resume/) 
+[Updated resume](https://bit.ly/jesusandreszini-resume) 
