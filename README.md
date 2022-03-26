@@ -13,7 +13,6 @@ My name is Jesus, I'm from Argentina. I am currently working as a full stack web
 
 ## Soft Skills:
 - Proactivity.
-- Commitment.
 - Teamwork.
 - Communication.
 - Critical thinking.
