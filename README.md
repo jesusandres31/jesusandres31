@@ -1,15 +1,14 @@
 ## Hello 👋
 
-My name is Jesus, I'm from Argentina. I am currently working as a full stack web developer and operations. Also, I have a degree in Information Systems.
+My name is Jesus, I'm from Argentina. I am a full stack web developer and graduated in information systems. Also I'm studying a master in IT.
+
 
 ## Hard Skills:
-- Docker 🐳.
 - Node, Express, TypeScript, React and Redux.
+- Docker, Linux and Bash Scripting
 - PostgreSQL and PL/PgSQL.
 - Nginx reverse proxy/web server.
-- Linux and Bash Scripting.
-- Git for version control. CI/CD with Jenkins.
-- Cloud technologies knowledge.
+- GitLab CI/CD. Jenkins. Cloud computing.
 
 ## Soft Skills:
 - Proactivity.
