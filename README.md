@@ -5,7 +5,7 @@ My name is Jesus, I'm from Argentina. I am a full stack web developer and gradua
 
 ## Hard Skills:
 - Node, Express, TypeScript, React and Redux.
-- Docker, Linux and Bash Scripting
+- Docker, Linux and Bash Scripting.
 - PostgreSQL and PL/PgSQL.
 - Nginx reverse proxy/web server.
 - GitLab CI/CD. Jenkins. Cloud computing.
