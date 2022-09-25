@@ -8,7 +8,7 @@ My name is Jesus, I'm from Argentina. I am a full stack web developer and gradua
 - Docker, Linux and Bash Scripting.
 - PostgreSQL and PL/PgSQL.
 - Nginx and Apache reverse proxy / web server / load balancer.
-- GitLab CI/CD. Jenkins. Cloud computing (AWS, Azure).
+- GitLab CI/CD. Jenkins. Cloud computing (AWS, Google Cloud, Azure).
 
 ## Soft Skills:
 - Proactivity.
