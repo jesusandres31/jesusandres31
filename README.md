@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is Jesus, I'm from Argentina. I'm a full stack web developer focused on DevOps, Information Systems Graduate and Master of IT student.
+My name is Jesus, I'm from Argentina. I'm a Full Stack Web Developer and DevOps enthusiast, Information Systems Graduate and Master of IT student.
 
 ## Hard Skills:
 - TypeScript, Node, Express, React and Redux.
