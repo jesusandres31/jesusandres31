@@ -7,7 +7,7 @@ My name is Jesus, I'm from Argentina. I'm a Full Stack Web Developer, DevOps ent
 - Docker, Linux and Bash Scripting.
 - PostgreSQL and PL/PgSQL.
 - Nginx and Apache reverse proxy / web server / load balancer.
-- CI/CD. Jenkins. Cloud computing (AWS, Google Cloud, Azure).
+- CI/CD. Jenkins. SonarQube. Cloud computing (AWS, Google Cloud, Azure).
 
 ## Soft Skills:
 - Proactivity.
