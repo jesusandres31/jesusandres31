@@ -17,6 +17,6 @@ My name is Jesus, I'm from Argentina. I'm a Full Stack Web Developer, DevOps ent
 
 ## Contact
 
-[My website](https://jesusandres.tech/)
+[My website](https://jesusandres31.github.io/)
 
 [Updated resume](https://bit.ly/jesusandreszini-resume) 
