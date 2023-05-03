@@ -1,12 +1,11 @@
 ## Hello 👋
 
-My name is Jesus, I'm a Full Stack Engineer and DevOps enthusiast. Information Systems Graduate. Master of IT student.
-
+I am a Full Stack Engineer with a keen interest in DevOps. I hold a degree in Information Systems and currently pursuing a Master's degree in Information Technology.
 
 ## Hard Skills:
 - TypeScript, Node, Express, React, Redux.
 - Docker, Linux, Bash Scripting.
-- SQL, PL/PgSQL, ORM, NoSQL, Redis.
+- SQL, PL/PgSQL, ORM, NoSQL, Redis, Python.
 - Nginx and Apache reverse proxy / web server.
 - CI/CD. Jenkins. SonarQube. Cloud computing (AWS, Google Cloud, Azure).
 
