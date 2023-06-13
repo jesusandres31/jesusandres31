@@ -8,6 +8,7 @@ I am a Full Stack Engineer with a keen interest in DevOps. I hold a degree in In
 - SQL, PL/PgSQL, ORM, NoSQL, Redis, Python.
 - Nginx and Apache reverse proxy / web server.
 - CI/CD. Jenkins. SonarQube. Cloud computing (AWS, Google Cloud, Azure).
+- Python, Airflow.
 
 ## Soft Skills:
 - Proactivity.
