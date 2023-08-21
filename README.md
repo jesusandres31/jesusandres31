@@ -1,5 +1,5 @@
 ## About me 👋
-Currently working as a Full Stack Developer with a strong affinity for DevOps and Data Engineering. I hold a degree in Information Systems and currently pursuing a Master's degree in Information Technology.
+I'm an Information Systems graduate and pursuing a Master's degree in Information Technology. Currently working as a Full Stack Developer with a strong affinity for DevOps and Data Engineering.
 
 ## Hard Skills:
 - TypeScript, Node, Express, React, Redux.
