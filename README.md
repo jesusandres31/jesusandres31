@@ -1,14 +1,13 @@
-## Hello 👋
-
-I am a Full Stack Engineer with a keen interest in DevOps. I hold a degree in Information Systems and currently pursuing a Master's degree in Information Technology.
+## About me 👋
+Currently working as a Full Stack Developer with a strong affinity for DevOps and Data Engineering. I hold a degree in Information Systems and currently pursuing a Master's degree in Information Technology.
 
 ## Hard Skills:
 - TypeScript, Node, Express, React, Redux.
-- Docker, Linux, Bash Scripting.
+- Docker, Linux, Bash Scripting, Nginx, Apache.
+- Cloud Computing (AWS, Google Cloud, Azure).
 - SQL, PL/PgSQL, ORM, NoSQL, Redis, Python.
-- Nginx and Apache reverse proxy / web server.
-- CI/CD. Jenkins. SonarQube. Cloud computing (AWS, Google Cloud, Azure).
-- Python, Airflow.
+- CI/CD pipelines. Jenkins. SonarQube. 
+- Python, Jupyter, Airflow.
 
 ## Soft Skills:
 - Proactivity.
@@ -17,7 +16,6 @@ I am a Full Stack Engineer with a keen interest in DevOps. I hold a degree in In
 - Critical thinking.
 
 ## Contact
-
 [My website](https://jesusandres31.github.io/)
 
 [Updated resume](https://bit.ly/jesusandreszini-resume) 
