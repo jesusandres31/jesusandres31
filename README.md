@@ -5,7 +5,7 @@ I'm an Information Systems graduate and pursuing a Master's degree in Informatio
 - TypeScript, Node, Express, React, Redux.
 - Docker, Linux, Bash Scripting, Nginx, Apache.
 - Cloud Computing (AWS, Google Cloud, Azure).
-- SQL, PL/PgSQL, ORM, NoSQL, Redis, Python.
+- SQL, PL/PgSQL, ORM, NoSQL, Redis.
 - CI/CD pipelines. Jenkins. SonarQube. 
 - Python, Jupyter, Airflow.
 
