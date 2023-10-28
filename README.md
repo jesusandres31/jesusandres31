@@ -4,9 +4,9 @@ I'm an Information Systems graduate and pursuing a Master's degree in Informatio
 ## Hard Skills:
 - TypeScript, (Node, Express, React, Redux, etc.).
 - Docker, Linux, Bash Scripting, Nginx, Apache.
-- Go (backend and microservices)
 - SQL, PL/PgSQL, ORM, NoSQL, Redis.
-- CI/CD pipelines. Jenkins. SonarQube. 
+- CI/CD pipelines. Jenkins. SonarQube.
+- Go (backend and microservices)
 - Python, Jupyter, Airflow, DBT (data engineering).
 - Cloud Computing (AWS, Google Cloud, Azure).
 
