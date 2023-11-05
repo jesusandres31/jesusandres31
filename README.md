@@ -18,6 +18,6 @@ I'm an Information Systems graduate and pursuing a Master's degree in Informatio
 - Critical thinking.
 
 ## Contact
-[My website](https://jesusandres31.github.io/)
+[Website](https://jesusandres31.github.io/)
 
-[Updated resume](https://bit.ly/jesusandreszini-resume) 
+[Resume](https://bit.ly/jesusandreszini-resume) 
