@@ -1,14 +1,14 @@
 ## About me 👋
-I'm an Information Systems graduate and pursuing a Master's degree in Information Technology (MSIT). Currently working as a Full Stack Web Developer with a strong affinity for DevOps and Data Engineering.
+I am a Software Engineer with solid experience in Full-Stack Web Development and Deployment. Holding a Bachelor's degree in Information Systems, currently pursuing a Master's degree in Information Technology (MSIT). I am responsible and friendly and can quickly integrate into teams.
 
 ## Hard Skills:
-- TypeScript, (Node, Express, React, Redux, etc.).
-- Docker, Linux, Bash Scripting, Nginx, Apache.
+- TypeScript/JavaScript (Node, React, Redux, etc.).
+- Linux, Docker, Bash Scripting, Nginx, Apache.
 - SQL, PL/PgSQL, ORM, NoSQL, Redis.
 - CI/CD pipelines. Jenkins. SonarQube.
 - Go (backend and microservices)
 - Python, Jupyter, Airflow, DBT (data engineering).
-- Cloud Computing (AWS, Google Cloud, Azure).
+- AWS, Azure, GCP (cloud computing).
 
 ## Soft Skills:
 - Pragmatism.
