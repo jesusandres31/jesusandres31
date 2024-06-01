@@ -1,5 +1,5 @@
 ## About me 👋
-I am a Software Engineer with solid experience in Full-Stack Web Development and Deployment. Holding a Bachelor's degree in Information Systems, currently pursuing a Master's degree in Information Technology (MSIT). I am responsible and friendly and can quickly integrate into teams.
+I am a Software Engineer with solid experience in Full-Stack Web Development and Deployment. Holding a Bachelor's degree in Information Systems, currently pursuing a Master's degree in Information Technology (MSIT). I am responsible, friendly and can quickly integrate into teams.
 
 ## Hard Skills:
 - TypeScript/JavaScript (Node, React, Redux, etc.).
