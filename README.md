@@ -24,4 +24,4 @@ I am a Software Engineer with solid experience in Full-Stack Web Development and
 
 💼 [Portfolio](https://github.com/jesusandres31/portfolio) 
 
-📋 [Curriculum Vitae](https://drive.google.com/file/d/1yFrs0Cqv2cLb03B8Pts7bR0fRmEHiH9F/view?usp=sharing) 
+📋 [Curriculum Vitae](https://bit.ly/jesusandreszini-curriculum-vitae) 
