@@ -18,8 +18,10 @@ I am a Software Engineer with solid experience in Full-Stack Web Development and
 - Critical thinking.
 
 ## Contact
-[Website](https://jesusandres31.github.io/)
+💻 [Website](https://jesusandres31.github.io/)
 
-[Resume](https://bit.ly/jesusandreszini-resume) 
+📄 [Resume](https://bit.ly/jesusandreszini-resume) 
 
-[Portfolio](https://github.com/jesusandres31/portfolio) 
+💼 [Portfolio](https://github.com/jesusandres31/portfolio) 
+
+📋 [Curriculum Vitae](https://drive.google.com/file/d/1yFrs0Cqv2cLb03B8Pts7bR0fRmEHiH9F/view?usp=sharing) 
