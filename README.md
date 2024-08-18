@@ -7,7 +7,7 @@ I am a Software Engineer with solid experience in Full-Stack Web Development and
 - SQL, PL/PgSQL, ORM, NoSQL, Redis.
 - CI/CD pipelines. Jenkins. SonarQube.
 - Go (backend and microservices)
-- Python, Jupyter, Airflow, DBT (data engineering and analytics).
+- Python, Jupyter, Pandas, Airflow, DBT (data engineering and analytics).
 - AWS, Azure, GCP (cloud computing).
 
 ## Soft Skills:
