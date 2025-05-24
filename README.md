@@ -1,5 +1,5 @@
 ## About me 👋
-I am a Full-Stack Engineer with expertise in building and deploying web applications, managing databases, and automating application workflows. I hold a Bachelor's degree in Information Systems and a Master's in Information Technology (MSIT). Known for being friendly, reliable, and experienced working with large international teams.
+I am a Full-Stack Engineer experienced in building and deploying web applications, managing databases and data pipelines, and performing sysadmin tasks in Linux and Cloud environments. I hold a Bachelor's degree in Information Systems, a Master's in Information Technology (MSIT), and a diploma in Data Science. Known for being friendly, reliable, and experienced working with large international teams.
 
 ## Hard Skills:
 - TypeScript/JavaScript (Node, React, Redux, etc.), PHP.
