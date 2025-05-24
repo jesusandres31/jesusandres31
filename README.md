@@ -6,7 +6,7 @@ I am a Full-Stack Engineer experienced in building and deploying web application
 - Linux, Docker, Bash Scripting, Nginx, Apache.
 - SQL, PL/PgSQL, Redis, NoSQL.
 - AWS, Jenkins, GitHub Actions. 
-- Python, Pandas, Apache Airflow.
+- Python, Pandas, Apache Airflow, Metabase.
 
 ## Soft Skills:
 - Pragmatism.
