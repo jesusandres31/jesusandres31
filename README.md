@@ -9,11 +9,7 @@ I am a Full-Stack Engineer experienced in building and deploying web application
 - Python, Pandas, Apache Airflow, Metabase.
 
 ## Soft Skills:
-- Pragmatism.
-- Proactivity.
-- Communication.
-- Teamwork.
-- Critical thinking.
+Pragmatism, Proactivity, Communication, Teamwork, Critical thinking.
 
 ## Contact
 💻 [Website](https://jesusandres31.github.io/)
