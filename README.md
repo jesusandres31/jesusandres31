@@ -10,7 +10,7 @@ Full-Stack Engineer with experience in web applications, data pipelines, automat
 Pragmatism, Proactivity, Communication, Teamwork, Critical thinking.
 
 ## Contact
-💻 [Website](https://jesusandres31.github.io/)
+💻 [Website](https://jesuszini.github.io/)
 
 📄 [Resume](https://bit.ly/jesusandreszini-resume) 
 
