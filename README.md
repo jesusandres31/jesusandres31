@@ -14,4 +14,4 @@ Pragmatism, Proactivity, Communication, Teamwork, Critical thinking.
 
 📄 [Resume](https://bit.ly/jesusandreszini-resume) 
 
-🧑‍💼 [LinkedIn](https://www.linkedin.com/in/jesusandreszini/)
+🔗 [LinkedIn](https://www.linkedin.com/in/jesusandreszini/)
