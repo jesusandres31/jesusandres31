@@ -4,7 +4,7 @@ Full-Stack Engineer with experience in web applications, data pipelines, automat
 ## Hard Skills:
 - **Infrastructure & Automation**: Linux, Docker, Bash scripting, Nginx, Apache, CI/CD pipelines, cloud platforms (AWS, GCP, Azure).
 - **Data Engineering**: SQL & PL/PgSQL, Databricks, Python (PySpark, Pandas), dbt, Apache Airflow, Metabase. 
-- **Full-Stack Web Development**: TypeScript, JavaScript (Node.js, React), PHP.
+- **Full-Stack Web Development**: TypeScript/JavaScript (Node.js, Express, React).
 
 ## Soft Skills:
 Pragmatism, Proactivity, Communication, Teamwork, Critical thinking.
